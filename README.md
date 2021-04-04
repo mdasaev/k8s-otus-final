@@ -4,11 +4,10 @@ grad project for k8s MVP
 
 To do:
 
- - MVP overview
+##MVP overview
+##App - https://microservices-demo.github.io
 
-- App - https://microservices-demo.github.io
-
-- Slides for presentation 
+###Slides for presentation 
 
 
 Changelog: TBD
