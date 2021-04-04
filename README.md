@@ -12,6 +12,7 @@
 ## App - https://microservices-demo.github.io
 
 ## Slides for presentation 
+*link to be posted here*
 
 
 Changelog: TBD
