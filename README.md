@@ -1,13 +1,17 @@
 # k8s-otus-final
-grad project for k8s MVP
+### grad project for k8s MVP
 
 
-To do:
+**To do:**
 
-##MVP overview
-##App - https://microservices-demo.github.io
+## MVP overview
+- scheme
+- description
+- services to be used
 
-###Slides for presentation 
+## App - https://microservices-demo.github.io
+
+## Slides for presentation 
 
 
 Changelog: TBD
